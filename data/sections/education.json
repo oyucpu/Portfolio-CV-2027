@@ -237,7 +237,7 @@
           },
           "locales": {
             "es": {
-              "title": "Certificado de Profesionalidad}} en Operación de Sistemas Informáticos",
+              "title": "{{Certificado de Profesionalidad}} en Operación de Sistemas Informáticos",
               "province": "Madrid (Madrid)",
               "country": "España",
               "institution": "Grupo Femxa",
@@ -379,7 +379,7 @@
         },
                 {
           "id": 12,
-          "img": "images/pictures/logo-gaspar.png",
+          "img": "images/pictures/grupo-aspasia.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2025, "month": 1},
