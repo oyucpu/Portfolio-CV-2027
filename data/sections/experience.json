@@ -1,0 +1,89 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Experience",
+                "title_short_nav": "Experience",
+                "title_long_prefix": "Summary of my",
+                "title_long": "{{Work}} Experience"
+            },
+            "es": {
+                "title_short": "Experiencia",
+                "title_short_nav": "Experiencia",
+                "title_long_prefix": "Resumen de mi",
+                "title_long": "Experiencia {{Laboral}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "dateStart"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/satelspain_logo.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2022, "month": 9},
+                    "dateEnd": {"year": 2022, "month": 12},
+                    "locales": {
+                        "es": {
+                            "title": "Técnico {{Informático}}",
+                            "province": "Madrid (Madrid)",
+                            "country": "España",
+                            "institution": "Satel Iberia S.L.",
+                            "text": "Soporte, mantenimiento y optimización de sistemas informáticos en entornos profesionales, asegurando el correcto funcionamiento de redes, equipos y servicios.",
+                            "list": [],
+                            "tags": ["Soporte Técnico", "Sistemas", "Redes", "Hardware", "Software", "Informática", "Mantenimiento", "Seguridad Informática"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "images/pictures/computing.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2018, "month": 3},
+                    "dateEnd": {"year": 2018, "month": 7},
+                    "locales": {
+                        "es": {
+                            "title": "Técnico {{Informático}}",
+                            "province": "Madrid (Madrid)",
+                            "country": "España",
+                            "institution": "Computing Renting S.L.",
+                            "text": "Soporte, mantenimiento y optimización de sistemas informáticos en entornos profesionales, asegurando el correcto funcionamiento de redes, equipos y servicios.",
+                            "list": [],
+                            "tags": ["Soporte Técnico", "Sistemas", "Redes", "Hardware", "Software", "Informática", "Mantenimiento", "Seguridad Informática"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "images/pictures/glo.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2019, "month": 1},
+                    "dateEnd": {"year": 2019, "month": 4},
+                    "locales": {
+                        "es": {
+                            "title": "Técnico {{Informático}}",
+                            "province": "Madrid (Madrid)",
+                            "country": "España",
+                            "institution": "Globaltics",
+                            "text": "Soporte, mantenimiento y optimización de sistemas informáticos en entornos profesionales, asegurando el correcto funcionamiento de redes, equipos y servicios.",
+                            "list": [],
+                            "tags": ["Soporte Técnico", "Sistemas", "Redes", "Hardware", "Software", "Informática", "Mantenimiento", "Seguridad Informática"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

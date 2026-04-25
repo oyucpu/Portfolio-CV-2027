@@ -1,0 +1,383 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Education",
+                "title_short_nav": "Education",
+                "title_long_prefix": "This is my",
+                "title_long": "{{Education}} Background"
+            },
+            "es": {
+                "title_short": "Educación",
+                "title_short_nav": "Educación",
+                "title_long_prefix": "Esta es mi",
+                "title_long": "{{Formación}} Educativa"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/aspasia.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2025, "month": 10},
+                    "dateEnd": {"year": 2025, "month": 11},
+                    "locales": {
+                        "es": {
+                            "title": "{{Certificado de Profesionalidad}} en Seguridad Informática",
+                            "province": "Madrid (Madrid)",
+                            "country": "España",
+                            "institution": "Grupo Aspasia",
+                            "text": "Obtuve un [[grado en Ciencias de la Computación]], con enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de diversos proyectos de programación, bootcamps de codificación y actividades colaborativas de desarrollo en equipo.",
+                            "list": ["Implementación de políticas de seguridad informática",
+                                  "Análisis de vulnerabilidades y auditorías de seguridad",
+                                  "Configuración y gestión de firewalls",
+                                  "Sistemas de detección y prevención de intrusos (IDS/IPS)",
+                                  "Aplicación de técnicas criptográficas para la protección de datos",
+                                  "Análisis y gestión de riesgos en sistemas IT",
+                                  "Monitorización de seguridad y respuesta ante incidentes",
+                                  "Protección de sistemas y redes frente a ciberamenazas"],
+                            "tags": ["Ciberseguridad", "Seguridad informática", "Análisis de vulnerabilidades", "Gestión de riesgos", "Firewalls", "Detección de intrusos", "Criptografía", "Protección de datos"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "images/pictures/logo-00.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2025, "month": 3},
+                    "dateEnd": {"year": 2025, "month": 10},
+                    "locales": {
+                        "es": {
+                            "title": "{{Certificado de Profesionalidad}} en Programación con Lenguajes Orientados a Objetos y Bases de Datos Relacionales",
+                            "province": "Madrid (Madrid)",
+                            "country": "España",
+                            "institution": "Cursos 0,0",
+                            "text": "Formación orientada al desarrollo de aplicaciones utilizando programación orientada a objetos y gestión de bases de datos relacionales.",
+                            "list": [
+                                "Programación orientada a objetos (OOP)",
+                                "Desarrollo de aplicaciones con lenguajes como Java o Python",
+                                "Diseño y modelado de bases de datos relacionales",
+                                "Uso de SQL para consultas, inserciones y actualizaciones",
+                                "Gestión de bases de datos (MySQL, PostgreSQL)",
+                                "Conexión entre aplicaciones y bases de datos",
+                                "Depuración y pruebas de aplicaciones",
+                                "Aplicación de buenas prácticas de desarrollo de software"
+                            ],
+
+                            "tags": ["Programación", "POO", "Java", "Python", "SQL", "Bases de datos", "Desarrollo de software", "Backend"]
+                        }
+                        
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "images/pictures/logo-colon.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2024, "month": 2},
+                    "dateEnd": {"year": 2024, "month": 9},
+                    "locales": {
+                        "es": {
+                            "title": "{{Certificado de Profesionalidad}} en Desarrollo de Aplicaciones con Tecnológias Web",
+                            "province": "Madrid (Madrid)",
+                            "country": "España",
+                            "institution": "Academia Colón (Madrid)",
+                            "text": "Terminado en el 2024, especializarme en:",
+                            "list": [
+                                "Diseño y estructuración de páginas web con HTML y CSS",
+                                "Maquetación web responsive adaptada a diferentes dispositivos",
+                                "Programación básica con JavaScript",
+                                "Uso de gestores de contenido (CMS) como WordPress",
+                                "Publicación y mantenimiento de sitios web",
+                                "Optimización básica SEO para páginas web",
+                                "Integración de contenido multimedia en sitios web",
+                                "Validación y pruebas de funcionamiento web"
+                            ],
+                            "tags": ["Desarrollo Web", "HTML", "PHP", "JASON", "CSS", "JavaScript", "WordPress", "Diseño Web", "Responsive Design", "SEO básico"]
+                        }
+                        
+                    }
+                },         
+{
+          "id": 4,
+          "img": "images/pictures/aspasia.png",
+          "faIcon": "",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "dateStart": {
+            "year": 2022,
+            "month": 11
+          },
+          "dateEnd": {
+            "year": 2023,
+            "month": 5
+          },
+          "locales": {
+            "es": {
+              "title": "{{Certificado de Profesionalidad}} en Operación de Sistemas de Comunicación de Voz y Datos",
+              "province": "Madrid (Madrid)",
+              "country": "España",
+              "institution": "Grupo Aspasia",
+              "text": "Formación orientada a la operación, mantenimiento y soporte de sistemas de comunicación de voz y datos en entornos profesionales.",
+              "list": ["Instalación y configuración de sistemas de comunicación de voz y datos",
+                    "Gestión de infraestructuras de red y conectividad",
+                    "Monitorización y mantenimiento de sistemas de comunicación",
+                    "Resolución de incidencias en redes y comunicaciones",
+                    "Configuración básica de switching y routing",
+                    "Aplicación de medidas de seguridad en sistemas de comunicación",
+                    "Soporte a servicios de telecomunicaciones y usuarios",
+                    "Análisis y optimización del rendimiento de redes"],
+              "tags": [ "Redes", "Telecomunicaciones", "Voz y Datos", "Administración de redes", "Soporte técnico", "Infraestructura IT", "Routing y Switching", "Seguridad de redes"]
+            }
+          }
+        },
+{
+          "id": 5,
+          "img": "images/pictures/oo.png",
+          "faIcon": "",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "dateStart": {
+            "year": 2021,
+            "month": 11
+          },
+          "dateEnd": {
+            "year": 2022,
+            "month": 6
+          },
+          "locales": {
+            "es": {
+              "title": "{{Certificado de Profesionalidad}} en Ilustración",
+              "province": "Madrid (Madrid)",
+              "country": "España",
+              "institution": "Grupo COLÓN",
+              "text": "Formación orientada a la operación, mantenimiento y soporte de sistemas de comunicación de voz y datos en entornos profesionales.",
+              "list": [
+                    "Fundamentos del dibujo artístico y la composición",
+                    "Teoría del color y su aplicación en ilustración",
+                    "Creación de personajes y narrativa visual",
+                    "Ilustración digital con software de diseño gráfico",
+                    "Técnicas tradicionales (tinta, acuarela, lápiz)",
+                    "Desarrollo de proyectos de ilustración editorial y comercial",
+                    "Uso de tipografía y maquetación en composiciones visuales",
+                    "Preparación de artes finales para impresión y medios digitales"],
+
+              "tags": ["Ilustración", "Arte Digital", "Dibujo", "Diseño Creativo", "Comunicación Visual", "Diseño de Personajes", "Ilustración Editorial", "Artes Gráficas"]
+            }
+          }
+        },
+        {
+          "id": 6,
+          "img": "images/pictures/cm.jpeg",
+          "faIcon": "",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "dateStart": {
+            "year": 2018,
+            "month": 11
+          },
+          "dateEnd": {
+            "year": 2019,
+            "month": 4
+          },
+          "locales": {
+            "es": {
+              "title": "{{Certificado de Profesionalidad}} en Montaje y Reparación de Sistemas Informáticos",
+              "province": "Madrid (Getafe)",
+              "country": "España",
+              "institution": "Centro Tecnólogico de Getafe",
+              "text": "Formación orientada al ensamblaje, mantenimiento y reparación de equipos informáticos, así como al diagnóstico de averías y soporte técnico.",
+              "list": ["Montaje y ensamblaje de equipos informáticos",
+                    "Diagnóstico y reparación de fallos de hardware",
+                    "Sustitución y actualización de componentes",
+                    "Instalación y configuración de sistemas operativos",
+                    "Mantenimiento preventivo y correctivo de equipos",
+                    "Gestión de periféricos y dispositivos externos",
+                    "Resolución de incidencias técnicas",
+                    "Soporte técnico a usuarios"],
+
+              "tags": ["Hardware", "Microinformática", "Mantenimiento IT", "Reparación de equipos", "Soporte técnico", "Diagnóstico de fallos", "Sistemas operativos", "Periféricos"]
+            }
+          }
+        },
+        {
+          "id": 7,
+          "img": "images/pictures/femxa.jpg",
+          "faIcon": "",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "dateStart": {
+            "year": 2018,
+            "month": 6
+          },
+          "dateEnd": {
+            "year": 2018,
+            "month": 11
+          },
+          "locales": {
+            "es": {
+              "title": "Certificado de Profesionalidad}} en Operación de Sistemas Informáticos",
+              "province": "Madrid (Madrid)",
+              "country": "España",
+              "institution": "Grupo Femxa",
+              "text": "Formación orientada a la administración, operación y mantenimiento de sistemas informáticos en entornos profesionales.",
+    "list": [
+        "Instalación y configuración de sistemas operativos",
+        "Monitorización de sistemas y gestión del rendimiento",
+        "Gestión de usuarios y permisos",
+        "Copias de seguridad y recuperación de datos",
+        "Configuración básica de redes y conectividad",
+        "Resolución de incidencias de sistemas y software",
+        "Aplicación de políticas de seguridad y buenas prácticas",
+        "Soporte técnico y mantenimiento de sistemas"
+    ],
+    "tags": ["Administración de sistemas", "Sistemas operativos", "Operación IT", "Soporte técnico", "Mantenimiento IT", "Resolución de incidencias", "Redes básicas", "Seguridad informática"]
+            }
+          }
+        },
+        {
+          "id": 8,
+          "img": "images/pictures/AC3.png",
+          "faIcon": "",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "dateStart": {
+            "year": 2017,
+            "month": 3
+          },
+          "dateEnd": {
+            "year": 2018,
+            "month": 2
+          },
+          "locales": {
+            "es": {
+              "title": "{{Certificado de Profesionalidad}} en Sistemas Microinformáticos",
+              "province": "Madrid (Fuenlabrada)",
+              "country": "España",
+              "institution": "Academia Colón (Fuenlabrada)",
+              "text": "Formación orientada a la instalación, configuración y mantenimiento de sistemas microinformáticos y soporte técnico a usuarios.",
+              "list": ["Instalación y configuración de sistemas operativos (Windows/Linux)",
+                "Montaje, mantenimiento y reparación de equipos informáticos",
+                "Gestión de usuarios y recursos en sistemas locales",
+                "Diagnóstico y resolución de incidencias de hardware y software",
+                "Instalación y configuración de aplicaciones",
+                "Soporte técnico a usuarios (Help Desk)",
+                "Configuración básica de redes y conectividad",
+                "Aplicación de medidas de seguridad en equipos informáticos"],
+
+              "tags": ["Microinformática", "Hardware", "Sistemas Operativos", "Soporte Técnico", "Mantenimiento IT", "Resolución de incidencias", "Redes básicas", "Seguridad informática"]
+            }
+          }
+        },
+        {
+          "id": 9,
+          "img": "images/pictures/logo-colon.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2014, "month": 9},
+                    "dateEnd": {"year": 2015, "month": 6},
+                    "locales": {
+                        "es": {
+                            "title": "{{Certificado de Profesionalidad}} en Operación en Redes Departamentales",
+                            "province": "Madrid (Madrid)",
+                            "country": "España",
+                            "institution": "Grupo Aspasia",
+                            "text": "Formación orientada a la gestión, mantenimiento y soporte de redes informáticas en entornos locales.",
+                            "list": [
+                                "Instalación y configuración de redes de área local (LAN)",
+                                "Administración básica de dispositivos de red (switches y routers)",
+                                "Monitorización del funcionamiento de redes",
+                                "Resolución de incidencias en redes departamentales",
+                                "Configuración de direccionamiento IP y servicios básicos de red",
+                                "Aplicación de medidas básicas de seguridad en redes",
+                                "Soporte técnico en infraestructuras de red"
+                            ],
+
+                            "tags": ["Redes", "LAN", "Administración de redes", "Soporte técnico", "Infraestructura IT", "Seguridad de redes", "Cisco básico"]
+                        }
+          }
+        },
+
+        {
+          "id": 10,
+          "img":"images/pictures/escudo.jpg",
+              "faIcon":"",
+              "faIconColors":{},
+              "dateStart": {"year": 2015, "month":9},
+              "dateEnd":{"year": 2017, "month": 7},
+              "locales":{
+                "es":{
+                  "title":"Técnico en Preimpresión Digital",
+                    "province":"Madrid (Madrid)",
+                    "country":"España",
+                    "institution":"IES Tajamar",
+                    "text":"Formación orientada a la preparación de archivos para impresión digital y offset, control de calidad y gestión del flujo de trabajo en entornos de producción gráfica.",
+                    "list":["Preparación y adaptación de archivos para impresión digital y offset",
+                        "Manejo de software de diseño y maquetación (Adobe InDesign, Illustrator, Photoshop)",
+                        "Gestión del color y perfiles ICC",
+                        "Revisión y corrección de archivos (preflight)",
+                        "Imposición de páginas para impresión",
+                        "Control de calidad en procesos de preimpresión",
+                        "Optimización de imágenes y formatos de archivo",
+                        "Gestión de flujos de trabajo en entornos de producción gráfica"],
+
+                    "tags":["Preimpresión", "Artes gráficas", "Diseño gráfico", "Maquetación", "Gestión del color", "Adobe", "Impresión digital", "Control de calidad"]
+                }
+              }
+        },
+
+        {
+          "id": 11,
+          "img": "images/pictures/logo-gaspar.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2009, "month": 9},
+                    "dateEnd": {"year": 2014, "month": 6},
+                    "locales": {
+                        "es": {
+                            "title": "{{Grado Medio}} en Sistemas Microinformáticos y Redes",
+                            "province": "Madrid (Fuenlabrada)",
+                            "country": "España",
+                            "institution": "Instuto Gaspar Melchor de Jovellanos",
+                            "text": "Terminado en el 2009, especializarme en:",
+                            "list": [
+                                "Montaje y mantenimiento de equipos informáticos",
+                                "Instalación y configuración de sistemas operativos (Windows/Linux)",
+                                "Configuración y administración de redes de área local (LAN)",
+                                "Resolución básica de incidencias en redes",
+                                "Diagnóstico y reparación de hardware",
+                                "Soporte técnico a usuarios (Help Desk)",
+                                "Instalación y mantenimiento de periféricos",
+                                "Seguridad informática básica y protección de sistemas"
+                            ],
+                            "tags": ["Hardware", "Sistemas Operativos", "Redes", "Soporte Técnico", "Resolución de incidencias", "Mantenimiento IT"]
+             }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+    "title": {
+        "locales": {
+            "es": {
+                "title_short": "Contacto",
+                "title_short_nav": "Contacto",
+                "title_long_prefix": "No dudes en",
+                "title_long": "{{Contácta}}me"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleContactForm",
+            "settings": {
+                "email_js_public_key": "tzObcsmOwHvPy6Rhp",
+                "email_js_service_id": "service_4h8g7vb",
+                "email_js_template_id": "template_react"
+            },
+            "locales": {
+                "es": {
+                    "contact_thank_you_title": "{{Gracias}} por el contacto!",
+                    "contact_thank_you_body": "Tu mensaje ha sido recibido, y me pondré en contacto contigo pronto. Aprecio tu tiempo y espero conectarme contigo.",
+                    "contact_thank_you_footer": "La respuesta se enviará a tu dirección de correo electrónico: {{$email}}",
+                    "title": "Envíame un {{mensaje}}"
+                }
+            },
+            "items": null
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleInfoList",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "locales": {
+                "es": {"title": "O si {{prefieres}}..."}
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-phone",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "628 199 112",
+                    "link": {"href": "tel:11234567890", "tooltipString": "call_me"},
+                    "copyToClipboardButton": true,
+                    "locales": {
+                        "es": {"title": "Teléfono"}
+                    }
+                },
+                {
+                    "id":2,
+                    "faIcon": "fa-solid fa-envelope",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "antonio.oyuela.dev@gmail.com",
+                    "link": {"href": "mailto:antonio.oyuela.dev@gmail.com", "tooltipString": "email_me"},
+                    "copyToClipboardButton": true,
+                    "locales": {
+                        "es": {"title": "E-mail"}
+                    }
+                    },
+                {
+                    "id": 3,
+                    "faIcon": "fa-brands fa-linkedin",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "@antoniooyuelasanchez",
+                    "link": {"href": "https://linkedin.com/in/antonio-oyuela-sánchez-0a3185141/", "tooltipString": "open_website"},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "es": {"title": "LinkedIn"}
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-facebook",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "Antonio Oyuela",
+                    "link": {"href": "https://facebook.com/antonio.osanchez.33", "tooltipString": "open_website"},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "es": {"title": "Facebook"}
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-brands fa-instagram",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "@antoniooyuelasanchez",
+                    "link": {"href": "https://www.instagram.com/antoniooyuelasanchez/", "tooltipString": "open_website"},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "es": {"title": "Instagram"}
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-brands fa-tiktok",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "@antoniooyuela33",
+                    "link": {"href": "https://tiktok.com/@antoniooyuela33", "tooltipString": "open_website"},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "es": {"title": "TikTok"}
+                    }
+                }
+            ]
+        }
+    ]
+}

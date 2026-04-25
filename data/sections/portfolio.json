@@ -1,0 +1,168 @@
+{
+    "title": {
+        "locales": {
+            "es": {
+                "title_short": "Portafolio",
+                "title_short_nav": "Portafolio",
+                "title_long_prefix": "Explora",
+                "title_long": "Mi {{Portafolio}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "es": {
+                    "category_all": "Todo",
+                    "category_portfolio_web": "Portfolio Web",
+                    "category_ilustración": "Ilustraciones",
+                    "category_juegos": "Juegos"
+                }
+            },
+            "settings": {
+                "categorize_by": ["category_portfolio_web", "category_ilustración","category_juegos"],
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "categoryId": "category_ilustración",
+                    "img": "images/pictures/ilu.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://www.behance.net/gallery/202567479/Portfolio-2024", "tooltipString": "see_webside", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "Ilustración de Portafolio",
+                            "text": "Una muestra de mis habilidades gráficas.",
+                            "tags": ["Ilustraciones", "Estudio", "Académico", "Portafolio"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_portfolio_web",
+                    "img": "images/pictures/po.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://oyucpu.github.io/", "tooltipString": "see_on_link", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "Portfolio_Terminal",
+                            "text": "Una terminal construida con <b>HTML, CSS y JS</b>, que ofrece comunicación eficiente con el usuario y <b>te da información</b>.",
+                            "tags": ["Porfolio", "Web", "Habilidades"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "categoryId": "category_ilustración",
+                    "img": "images/pictures/ilu.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://www.behance.net/gallery/177525633/PortFolio", "tooltipString": "see_on_webside", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "Ilustraciones",
+                            "text": "Unas series de ilustraciones que reflejan mi creatividad y habilidades artísticas.",
+                            "tags": ["Ilustraciones", "Dibujo", "Portfolio"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "categoryId": "category_ilustración",
+                    "img": "images/pictures/ilu.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://www.behance.net/gallery/239149677/Portfolio-2026", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+
+                        ],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "Portfolio de Ilustraciones",
+                            "text": "Un sitio web donde muestro mis ilustraciones académicas.",
+                            "tags": ["Caricaturas", "Porfolio", "Ilustraciones"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "categoryId": "category_juegos",
+                    "img": "images/pictures/g.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://soltando-el-amor.vercel.app/", "tooltipString": "see_webside", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "Juegos y páginas de web del desamor",
+                            "text": "Varios juegos del desamor.",
+                            "tags": ["Ilustraciones", "Juegos", "Portafolio"]
+                        }
+                    }
+                },
+                {
+                "id": 6,
+                    "categoryId": "category_juegos",
+                    "img": "images/pictures/g.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://juegos-173.vercel.app/", "tooltipString": "see_webside", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "Juegos y páginas de web del desamor",
+                            "text": "Varios juegos del desamor.",
+                            "tags": ["Ilustraciones", "Juegos", "Portafolio"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
