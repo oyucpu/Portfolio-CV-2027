@@ -376,6 +376,34 @@
                             "tags": ["Hardware", "Sistemas Operativos", "Redes", "Soporte Técnico", "Resolución de incidencias", "Mantenimiento IT"]
              }
           }
+        },
+                {
+          "id": 12,
+          "img": "images/pictures/logo-gaspar.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2025, "month": 1},
+                    "dateEnd": {"year": 2025, "month": 11},
+                    "locales": {
+                        "es": {
+                            "title": "{{Certificado de Profesionalidad}} en Operaciones de Grabación y Tratramiento de Datos y Documentos",
+                            "province": "Madrid (Madrid)",
+                            "country": "España",
+                            "institution": "Grupo Aspasia",
+                            "text": "Terminado en el 2025, especializarme en:",
+                            "list": [
+                                  "Grabación de datos mediante técnicas mecanográficas",
+                                  "Tratamiento y gestión de documentos administrativos",
+                                  "Manejo de aplicaciones ofimáticas (Word, Excel, Access)",
+                                  "Archivo y clasificación de documentación",
+                                  "Introducción y actualización de bases de datos",
+                                  "Reproducción y digitalización de documentos",
+                                  "Gestión de correo electrónico y comunicaciones digitales",
+                                  "Normativa de protección de datos (RGPD)"
+                            ],
+                            "tags": ["Ofimática", "Gestión Documental", "Bases de Datos", "RGPD", "Digitalización", "Mecanografía"]
+             }
+          }
         }
       ]
     }
