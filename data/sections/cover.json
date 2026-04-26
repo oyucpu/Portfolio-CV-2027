@@ -88,7 +88,7 @@
                     "locales": {
                         "es": {
                             "title": "SASS",
-                            "text": "SASS es un preprocesador de CSS que me permite escribir estilos de manera más eficiente y organizada. Con este curso, aprendí a utilizar variables, mixins, anidamiento y otras características avanzadas de SASS para mejorar la mantenibilidad y escalabilidad de mis proyectos frontend."
+                            "text": "SASS es un preprocesador de CSS que me permite escribir estilos de manera más eficiente y organizada. Con este curso, aprendí a utilizar variables, mixins, anidamiento y otras características."
                         }
                     }
                 },
