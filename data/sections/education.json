@@ -407,11 +407,11 @@
         },
                         {
           "id": 13,
-          "img": "images/pictures/aspasia.png",
+          "img": "images/pictures/AC3.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2025, "month": 1},
-                    "dateEnd": {"year": 2025, "month": 11},
+                    "dateStart": {"year": 2019, "month": 11},
+                    "dateEnd": {"year": 2020, "month": 9},
                     "locales": {
                         "es": {
                             "title": "{{Certificado de Profesionalidad}} en Desarrollo de Productos Editoriales Multimedia",
