@@ -102,21 +102,21 @@
                     "locales": {
                         "es": {
                             "title": "IPTABLES: Firewall en Linux",
-                            "text": "IPTABLES es una herramienta de firewall para sistemas Linux que permite configurar reglas para controlar el tráfico de red. Con este curso, aprendí a proteger mis sistemas y redes de amenazas externas, configurando reglas de filtrado, redirección y NAT."
+                            "text": "IPTABLES es una herramienta de firewall para sistemas Linux que permite configurar reglas para controlar el tráfico de red. Con este curso, aprendí a proteger mis sistemas y redes de amenazas externas, configurando reglas de filtrado."
                         }
                     }
                 },
                 {
                     "id": 3,
                     "label": "",
-                    "link": {"href": "", "tooltipString": ""},
+                    "link": {"href": "https://www.udemy.com/certificate/UC-4222e75e-c922-4d66-acb0-353d0f026c41/", "tooltipString": ""},
                     "img": "images/pictures/udemy.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "es": {
-                            "title": "",
-                            "text": ""
+                            "title": "HTML5 y CSS3 desde Cero",
+                            "text": "Aprendiendo HTML5 y CSS3 desde cero para crear páginas web modernas y responsivas."
                         }
                     }
                 },
