@@ -404,6 +404,37 @@
                             "tags": ["Ofimática", "Gestión Documental", "Bases de Datos", "RGPD", "Digitalización", "Mecanografía"]
              }
           }
+        },
+                        {
+          "id": 13,
+          "img": "images/pictures/aspasia.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2025, "month": 1},
+                    "dateEnd": {"year": 2025, "month": 11},
+                    "locales": {
+                        "es": {
+                            "title": "{{Certificado de Profesionalidad}} en Desarrollo de Productos Editoriales Multimedia",
+                            "province": "Madrid (Coslada)",
+                            "country": "España",
+                            "institution": "Academia Colón (Coslada)"
+,
+                            "text": "Terminado en el 2020, especializarme en:",
+                            "list": [
+                                  "Planificación y desarrollo de proyectos editoriales multimedia",
+                                  "Diseño de productos editoriales digitales e interactivos",
+                                  "Integración de textos, imágenes, audio y vídeo en entornos multimedia",
+                                  "Edición y tratamiento de contenidos digitales",
+                                  "Maquetación digital y usabilidad en productos editoriales",
+                                  "Gestión de contenidos mediante sistemas CMS",
+                                  "Publicación y distribución de productos editoriales en distintos soportes",
+                                  "Aplicación de normativa de propiedad intelectual y derechos de autor",
+                                  "Control de calidad de productos editoriales multimedia",
+                                  "Coordinación de equipos y recursos en proyectos editoriales"
+                            ],
+                            "tags": [ "Editorial Multimedia", "Diseño Digital", "Contenidos Interactivos", "CMS", "Propiedad Intelectual", "Maquetación", "Producción Multimedia", "UX/UI"]
+             }
+          }
         }
       ]
     }
