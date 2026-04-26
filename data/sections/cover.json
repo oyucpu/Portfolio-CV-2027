@@ -81,28 +81,28 @@
                 {
                     "id": 1,
                     "label": "",
-                    "link": {"href": "", "tooltipString": "open_website"},
+                    "link": {"href": "https://www.udemy.com/certificate/UC-24a76dd1-1734-4908-909c-ac6ba2df8f49/", "tooltipString": "open_website"},
                     "img": "images/pictures/udemy.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "es": {
-                            "title": "",
-                            "text": ""
+                            "title": "SASS",
+                            "text": "SASS es un preprocesador de CSS que me permite escribir estilos de manera más eficiente y organizada. Con este curso, aprendí a utilizar variables, mixins, anidamiento y otras características avanzadas de SASS para mejorar la mantenibilidad y escalabilidad de mis proyectos frontend."
                         }
                     }
                 },
                 {
                     "id": 2,
                     "label": "",
-                    "link": {"href":"", "tooltipString": "open_website"},
+                    "link": {"href":"https://www.udemy.com/certificate/UC-db5077a5-458c-4617-9ce5-c03c48f0303e/", "tooltipString": "open_website"},
                     "img": "images/pictures/udemy.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "es": {
-                            "title": "",
-                            "text": ""
+                            "title": "IPTABLES: Firewall en Linux",
+                            "text": "IPTABLES es una herramienta de firewall para sistemas Linux que permite configurar reglas para controlar el tráfico de red. Con este curso, aprendí a proteger mis sistemas y redes de amenazas externas, configurando reglas de filtrado, redirección y NAT para garantizar la seguridad y el rendimiento de mis proyectos."
                         }
                     }
                 },
