@@ -60,7 +60,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "es": {
-                            "text": "<p>Si me das un ordenador, cambio el mundo.</p><p>Soy un {{técnico informático}} con [[más de 3 años]] de experiencia, especializado en desarrollo frontend y con experiencia en entornos de producción y soporte de sistemas.</p><p>Este recorrido profesional me ha permitido adaptarme a diferentes entornosy necesidades. Me considero un perfil técnico con una mentalidad creativa, capaz de aportar soluciones eficientes y funcionales. Estoy orientado a proyectos donde la tecnología y la creatividad se combinan para lograr resultados excepcionales.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
+                            "text": "<p>Si me das un ordenador, cambio el mundo.</p><p>Soy un {{técnico informático}} con [[más de 3 años]] de experiencia, especializado en desarrollo frontend y con experiencia en entornos de producción y soporte de sistemas.</p><p>Este recorrido profesional me ha permitido adaptarme a diferentes entornos y necesidades. Me considero un perfil técnico con una mentalidad creativa, capaz de aportar soluciones eficientes y funcionales. Estoy orientado a proyectos donde la tecnología y la creatividad se combinan para lograr resultados excepcionales.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
                         }
                     }
                 }
