@@ -161,6 +161,28 @@
                             "tags": ["Ilustraciones", "Juegos", "Portafolio"]
                         }
                     }
+                },
+                {
+                    "id": 7,
+                    "categoryId": "category_juegos",
+                    "img": "images/pictures/g.png", 
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://adivina-pelicula-3l63dks9o-antonio92cpus-projects.vercel.app", "tooltipString": "see_webside", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "Adivina la película",
+                            "text": "Un juego para adivinar películas.",
+                            "tags": ["Juegos", "Portafolio"]
+                        }
+                    }
                 }
             ]
         }
