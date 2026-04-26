@@ -183,6 +183,28 @@
                             "tags": ["Juegos", "Portafolio"]
                         }
                     }
+                },
+                {
+                    "id": 8,
+                    "categoryId": "category_juegos",
+                    "img": "images/pictures/g.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://oyucpu.github.io/pciberseguridad.github.io/", "tooltipString": "see_webside", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": "" 
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "Juego Ciberseguridad",
+                            "text": "Un sitio web sobre ciberseguridad.",
+                            "tags": ["Juegos", "Portafolio"]
+                        }
+                    }   
                 }
             ]
         }
