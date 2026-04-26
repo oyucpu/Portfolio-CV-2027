@@ -102,7 +102,7 @@
                     "locales": {
                         "es": {
                             "title": "IPTABLES: Firewall en Linux",
-                            "text": "IPTABLES es una herramienta de firewall para sistemas Linux que permite configurar reglas para controlar el tráfico de red. Con este curso, aprendí a proteger mis sistemas y redes de amenazas externas, configurando reglas de filtrado, redirección y NAT para garantizar la seguridad y el rendimiento de mis proyectos."
+                            "text": "IPTABLES es una herramienta de firewall para sistemas Linux que permite configurar reglas para controlar el tráfico de red. Con este curso, aprendí a proteger mis sistemas y redes de amenazas externas, configurando reglas de filtrado, redirección y NAT."
                         }
                     }
                 },
