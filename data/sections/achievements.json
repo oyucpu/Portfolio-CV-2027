@@ -166,6 +166,27 @@
                             "text": "Creador de la fórmula para cambiar el mundo."
                         }
                     }
+                },
+                {
+                    "id": 3,
+                    "date": {"year": 2020, "month": 6},
+                    "preview": {
+                        "links": [
+                            {"href": "", "tooltipString": "read", "faIcon": ""}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "{{Pensar}} fuera de la caja",
+                            "province": "Madrid, Madrid",
+                            "country": "España",
+                            "institution": "Utilizar el pensamiento creativo para resolver problemas de manera innovadora.",
+                            "text": "Pensar fuera de la caja es una habilidad que me ha permitido abordar desafíos desde perspectivas únicas y encontrar soluciones creativas e innovadoras."
+                        }
+                    }
                 }
             ]
         }
