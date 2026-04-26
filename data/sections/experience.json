@@ -88,8 +88,8 @@
                     "img": "images/pictures/glo.jpeg",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2019, "month": 1},
-                    "dateEnd": {"year": 2019, "month": 4},
+                    "dateStart": {"year": 2025, "month": 8},
+                    "dateEnd": {"year": 2025, "month": 11},
                     "locales": {
                         "es": {
                             "title": "Técnico {{Administrativo}}",
