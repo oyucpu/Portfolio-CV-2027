@@ -149,6 +149,26 @@
                 },
                 {
                     "id": 2,
+                    "date": {"year": 2012, "month": 9},
+                    "preview": {
+                        "links": [
+                            {"href": "", "tooltipString": "read", "faIcon": ""}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "{{Creador}} de la Fórmula para Cambiar el Mundo",
+                            "province": "Madrid, Madrid",
+                            "country": "España",
+                            "text": "Creador de la fórmula para cambiar el mundo."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
                     "date": {"year": 2020, "month": 6},
                     "preview": {
                         "links": [
