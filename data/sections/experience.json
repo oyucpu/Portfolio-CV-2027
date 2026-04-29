@@ -107,7 +107,7 @@
                     "img": "images/pictures/oo.jfif",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2025, "month": },
+                    "dateStart": {"year": 2025, "month": 8},
                     "dateEnd": {"year": 2025, "month": 11}, 
                     "locales": {
                         "es": {
