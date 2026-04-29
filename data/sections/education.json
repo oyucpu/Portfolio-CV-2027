@@ -35,19 +35,14 @@
                     "dateEnd": {"year": 2025, "month": 11},
                     "locales": {
                         "es": {
-                            "title": "{{Certificado de Profesionalidad}} en Seguridad Informática",
+                            "title": "MF0487_3: Auditoría de seguridad informática perteneciente al {{Certificado de Profesionalidad}} en Seguridad Informática",
                             "province": "Madrid (Madrid)",
                             "country": "España",
                             "institution": "Grupo Aspasia",
-                            "text": "Obtuve un [[grado en Ciencias de la Computación]], con enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de diversos proyectos de programación, bootcamps de codificación y actividades colaborativas de desarrollo en equipo.",
+                            "text": "Obtuve el [Módulo Formativo]], .",
                             "list": ["Implementación de políticas de seguridad informática",
                                   "Análisis de vulnerabilidades y auditorías de seguridad",
-                                  "Configuración y gestión de firewalls",
-                                  "Sistemas de detección y prevención de intrusos (IDS/IPS)",
-                                  "Aplicación de técnicas criptográficas para la protección de datos",
-                                  "Análisis y gestión de riesgos en sistemas IT",
-                                  "Monitorización de seguridad y respuesta ante incidentes",
-                                  "Protección de sistemas y redes frente a ciberamenazas"],
+                                  "Evaluar, analizar y verificar el nivel de seguridad de una organización o empresa"],
                             "tags": ["Ciberseguridad", "Seguridad informática", "Análisis de vulnerabilidades", "Gestión de riesgos", "Firewalls", "Detección de intrusos", "Criptografía", "Protección de datos"]
                         }
                     }
