@@ -425,8 +425,29 @@
                             "tags": [ "Editorial Multimedia", "Diseño Digital", "Contenidos Interactivos", "CMS", "Propiedad Intelectual", "Maquetación", "Producción Multimedia", "UX/UI"]
              }
           }
+        }, 
+        {
+          "id": 14,
+          "img": "images/pictures/aspasia.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2025, "month": 1}, 
+                    "dateEnd": {"year": 2025, "month": 11},
+                    "locales": {
+                        "es": {
+                            "title": "{{Certificado de Profesionalidad}} en Operaciones de Grabación y Tratamiento de Datos y Documentos",
+                            "province": "Madrid (Madrid)",
+                            "country": "España",
+                            "institution": "Grupo Aspasia",
+                            "text": "Terminado en el 2025, especializarme en:",
+                            "list": [
+                                  "Grabación de datos mediante técnicas mecanográficas",
+                                  "Tratamiento y gestión de documentos administrativos",
+                                  "Manejo de aplicaciones ofimáticas (Word, Excel, Access)"],
+
+                            "tags": ["Ofimática", "Gestión Documental", "Bases de Datos", "RGPD", "Digitalización", "Mecanografía"]
         }
-      ]
+      }
     }
   ]
 }
