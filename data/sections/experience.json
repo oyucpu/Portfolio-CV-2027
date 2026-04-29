@@ -104,17 +104,17 @@
                 },
                 {
                     "id": 4,
-                    "img": "images/pictures/cc.png",
+                    "img": "images/pictures/oo.jfif",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2025, "month": 8},
                     "dateEnd": {"year": 2025, "month": 11},
                     "locales": {
                         "es": {
-                            "title": "Técnico {{Administrativo}}",
-                            "province": "Madrid (Getafe)",
+                            "title": "Auxiliar de {{Administración}}",
+                            "province": "Madrid (Madrid)",
                             "country": "España",
-                            "institution": "Cabelas Consultores S.L.",
+                            "institution": "Grupo Osgar S.L.",
                             "text": "Gestión administrativa, atención al cliente y soporte en tareas de oficina, contribuyendo a la eficiencia operativa y satisfacción del cliente.",
                             "list": [],
                             "tags": ["Administración", "Atención al Cliente", "Soporte Administrativo", "Gestión de Documentos", "Organización de Tareas", "Comunicación", "Trabajo en Equipo"]
