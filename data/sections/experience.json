@@ -105,7 +105,7 @@
                         "faIcon": "",
                         "faIconColors": {"bg": "", "fill": ""},
                         "dateStart": {"year": 2025, "month": 2},
-                        "dateEnd": {"year": 2025, "month": 6,
+                        "dateEnd": {"year": 2025, "month": 6},
                         "locales": {
                             "es": {
                                 "title": "Desarrollador {{Web}}",
