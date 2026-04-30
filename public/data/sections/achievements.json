@@ -1,0 +1,194 @@
+{
+    "title": {
+        "locales": {
+            "es": {
+                "title_short": "Logros",
+                "title_short_nav": "Logros",
+                "title_long_prefix": "Aquí están mis",
+                "title_long": "{{Logros}} Profesionales"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleCards",
+            "locales": {
+                "en": { "title": "Futures Certifications" },
+                "es": { "title": "Futuras Certificaciones" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/LE.jpg",
+                    "faIcon": "fa-solid fa-life-ring",
+                    "faIconColors": {"bg": "#326CE5", "fill": "#EEE"},
+                    "link": {"href": "", "tooltipString": "see_certification"},
+                    "locales": {
+
+                        "es": {
+                        	"title": "Linux Essentials",
+                            "text": "Certified Linux Essentials (LE)"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "img": "images/pictures/gcp.webp",
+                    "faIcon": "fa-brands fa-aws",
+                    "faIconColors": {"bg": "#FFD700", "fill": "#111"},
+                    "link": {"href": "", "tooltipString": "see_certification"},
+                    "locales": {
+
+                        "es": {
+                        	"title": "Google Platafom Colud",
+                            "text": "Arquitecto de Nube Profesional Certificado por Google Cloud"
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-brands fa-java",
+                    "faIconColors": {"bg": "#007396", "fill": "#EEE"},
+                    "link": {"href": "", "tooltipString": "see_certification"},
+                    "locales": {
+
+                        "es": {
+                        	"title": "Java",
+                            "text": "Desarrollador Java Certificado"
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": {"bg": "#47A248", "fill": "#EEE"},
+                    "link": {"href": "", "tooltipString": "see_certification"},
+                    "locales": {
+
+                        "es": {
+                        	 "title": "{{MongoDB}}",
+                            "text": "Desarrollador Certificado de MongoDB"
+                        }
+                    }
+                },
+                
+                {
+                    "id": 5,
+                    "img": "images/pictures/asow.png",
+                    "faIcon": "fa-solid fa-cubes",
+                    "faIconColors": {"bg": "#0db7ed", "fill": "#111"},
+                    "link": {"href": "", "tooltipString": "see_certification"},
+                    "locales": {
+
+                        "es": {
+                        	 "title": "{{Microsoft}} Certified Associate",
+                            "text": "Asociado Certificado de Microsoft (MCA)"
+                        }
+                    }
+                },
+
+                {
+                    "id": 6,
+                    "img": "images/pictures/asoadobe.png",
+                    "faIcon": "fa-solid fa-cloud",
+                    "faIconColors": {"bg": "#326CE5", "fill": "#EEE"},
+                    "link": {"href": "", "tooltipString": ""},
+                    "locales": {
+
+                        "es": {
+                        	"title": "{{Adobe}} Certified Associate",
+                            "text": "Asociado Certificado de Adobe"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "es": { "title": "Premios / Logos" }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 4,
+                "order_items_by": "date",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "date": {"year": 2015, "month": 9},
+                    "preview": {
+                        "links": [
+                            {"href": "", "tooltipString": "read", "faIcon": ""}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "{{Delegado}} de Clase – Escuela Secundaria",
+                            "province": "Madrid",
+                            "country": "España",
+                            "institution": "Colegios e institutos de Madrid",
+                            "text": "Delegado de clase durante mi tiempo en la escuela primaria y secundaria."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "date": {"year": 2012, "month": 9},
+                    "preview": {
+                        "links": [
+                            {"href": "", "tooltipString": "read", "faIcon": ""}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "{{Creador}} de la Fórmula para Cambiar el Mundo",
+                            "province": "Madrid, Madrid",
+                            "country": "España",
+                            "text": "Creador de la fórmula para cambiar el mundo."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "date": {"year": 2020, "month": 6},
+                    "preview": {
+                        "links": [
+                            {"href": "", "tooltipString": "read", "faIcon": ""}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "{{Pensar}} fuera de la caja",
+                            "province": "Madrid, Madrid",
+                            "country": "España",
+                            "institution": "Utilizar el pensamiento creativo para resolver problemas de manera innovadora.",
+                            "text": "Pensar fuera de la caja es una habilidad que me ha permitido abordar desafíos desde perspectivas únicas y encontrar soluciones creativas e innovadoras."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

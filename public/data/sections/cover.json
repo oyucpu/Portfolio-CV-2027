@@ -1,0 +1,239 @@
+{
+    "title": {
+        "locales": {
+            "es": {
+                "title_short": "¡Saludos!",
+                "title_short_nav": "Sobre mí",
+                "title_long_prefix": "Hola...",
+                "title_long": "Soy {{Antonio Oyuela!}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleInlineList",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "display_as_list_if_width_is_lower_than": 380
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "label": "España – Madrid",
+                    "link": {"href": "", "tooltipString": ""},
+                    "faIcon": "pi pi-map-marker"
+                },
+                {
+                    "id": 2,
+                    "label": "antonio.oyuela.dev@gmail.com",
+                    "link": {"href": "mailto:antonio.oyuela.dev@gmail.com", "tooltipString": "email_me"},
+                    "faIcon": "fa-regular fa-envelope"
+                },
+                {
+                    "id": 3,
+                    "label": "@oyucpu",
+                    "link": {"href": "https://github.com/oyucpu", "tooltipString": "see_on_github"},
+                    "faIcon": "fa-brands fa-github"
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleText",
+            "locales": {
+                "es": {"title": "{{Un poco}} sobre mí..."}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/about-texts-image-1.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "es": {
+                            "text": "<p>Si me das un ordenador, cambio el mundo.</p><p>Soy un {{técnico informático}} con [[más de 3 años]] de experiencia, especializado en desarrollo frontend y con experiencia en entornos de producción y soporte de sistemas.</p><p>Este recorrido profesional me ha permitido adaptarme a diferentes entornos y necesidades. Me considero un perfil técnico con una mentalidad creativa, capaz de aportar soluciones eficientes y funcionales. Estoy orientado a proyectos donde la tecnología y la creatividad se combinan para lograr resultados excepcionales.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "component": "ArticleTestimonials",
+            "locales": {
+                "es": {"title": "Mis {{Certificados}}"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "label": "",
+                    "link": {"href": "https://www.udemy.com/certificate/UC-24a76dd1-1734-4908-909c-ac6ba2df8f49/", "tooltipString": "open_website"},
+                    "img": "images/pictures/udemy.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "es": {
+                            "title": "SASS",
+                            "text": "SASS es un preprocesador de CSS que me permite escribir estilos de manera más eficiente y organizada. Con este curso, aprendí a utilizar variables, mixins, anidamiento y otras características."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "label": "",
+                    "link": {"href":"https://www.udemy.com/certificate/UC-db5077a5-458c-4617-9ce5-c03c48f0303e/", "tooltipString": "open_website"},
+                    "img": "images/pictures/udemy.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "es": {
+                            "title": "IPTABLES: Firewall en Linux",
+                            "text": "IPTABLES es una herramienta de firewall para sistemas Linux que permite configurar reglas para controlar el tráfico de red. Con este curso, aprendí a proteger mis sistemas y redes de amenazas externas, configurando reglas de filtrado."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "label": "",
+                    "link": {"href": "https://www.udemy.com/certificate/UC-4222e75e-c922-4d66-acb0-353d0f026c41/", "tooltipString": ""},
+                    "img": "images/pictures/udemy.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "es": {
+                            "title": "HTML5 y CSS3 desde Cero",
+                            "text": "Aprendiendo HTML5 y CSS3 desde cero para crear páginas web modernas y responsivas."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "label": "",
+                    "link": {"href": "", "tooltipString": "open_website"},
+                    "img": "images/pictures/udemy.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "es": {
+                            "title": "",
+                            "text": ""
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 4,
+            "component": "ArticleInfoList",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "locales": {
+                "es": {"title": "Intereses {{personales}}"}
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-video",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "es": {
+                            "title": "Edición de video con {{AI}}",
+                            "text": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-solid fa-palette",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "es": {
+                            "title": "{{Arte}} y Ilustración",
+                            "text": "Practicando arte digital y explorando nuevos estilos."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-solid fa-heart",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "es": {
+                            "title": "Aprendizaje {{continuo}}",
+                            "text": "Aprendiendo nuevas habilidades."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-solid fa-window-restore",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "es": {
+                            "title": "Diseño {{UX}}",
+                            "text": "Estudiando los principios de la experiencia del usuario."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-solid fa-camera-retro",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "es": {
+                            "title": "{{Fotografía}} y Photoshop",
+                            "text": "Mejorando fotos a través de técnicas creativas de edición."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-solid fa-headphones",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "es": {
+                            "title": "Música y {{Podcasts}}",
+                            "text": "Disfrutamiento de buena música y podcasts."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
