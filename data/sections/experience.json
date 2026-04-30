@@ -101,7 +101,7 @@
                 },
                     {
                         "id": 5,
-                        "img": "",
+                        "img": "images/pictures/pi.jpg",
                         "faIcon": "",
                         "faIconColors": {"bg": "", "fill": ""},
                         "dateStart": {"year": 2025, "month": 8},
