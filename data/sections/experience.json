@@ -121,7 +121,7 @@
                     },
                         {
                             "id": 5,
-                            "img": "images/pictures/sst.png",
+                            "img": "images/pictures/SST.png",
                             "faIcon": "",
                             "faIconColors": {"bg": "", "fill": ""},
                             "dateStart": {"year": 2024, "month": 6},
