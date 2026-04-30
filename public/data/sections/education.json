@@ -34,15 +34,38 @@
                     "dateStart": {"year": 2025, "month": 10},
                     "dateEnd": {"year": 2025, "month": 11},
                     "locales": {
+                        "en": {
+"title": "Professional Certificate in Information Security",
+    "province": "Madrid (Madrid)",
+    "country": "Spain",
+    "institution": "Grupo Aspasia",
+    "text": "I obtained a [[degree in Computer Science]], with a focus on algorithms, data structures, software engineering, and web development. I gained practical experience through various programming projects, coding bootcamps, and collaborative team development activities.",
+    "list": [
+        "Implementation of information security policies",
+        "Vulnerability assessment and security auditing",
+        "Configuration and management of firewalls",
+        "Intrusion detection and prevention systems (IDS/IPS)",
+        "Application of cryptographic techniques for data protection",
+        "Risk analysis and management in IT systems",
+        "Security monitoring and incident response",
+        "Protection of systems and networks against cyber threats"
+    ],
+    "tags": ["Cybersecurity", "Information Security", "Vulnerability Analysis", "Risk Management", "Firewalls", "Intrusion Detection", "Cryptography", "Data Protection"]
+                        },
                         "es": {
-                            "title": "MF0487_3: Auditoría de seguridad informática perteneciente al {{Certificado de Profesionalidad}} en Seguridad Informática",
+                            "title": "{{Certificado de Profesionalidad}} en Seguridad Informática",
                             "province": "Madrid (Madrid)",
                             "country": "España",
                             "institution": "Grupo Aspasia",
-                            "text": "Obtuve el [Módulo Formativo]], .",
+                            "text": "Obtuve un [[grado en Ciencias de la Computación]], con enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de diversos proyectos de programación, bootcamps de codificación y actividades colaborativas de desarrollo en equipo.",
                             "list": ["Implementación de políticas de seguridad informática",
                                   "Análisis de vulnerabilidades y auditorías de seguridad",
-                                  "Evaluar, analizar y verificar el nivel de seguridad de una organización o empresa"],
+                                  "Configuración y gestión de firewalls",
+                                  "Sistemas de detección y prevención de intrusos (IDS/IPS)",
+                                  "Aplicación de técnicas criptográficas para la protección de datos",
+                                  "Análisis y gestión de riesgos en sistemas IT",
+                                  "Monitorización de seguridad y respuesta ante incidentes",
+                                  "Protección de sistemas y redes frente a ciberamenazas"],
                             "tags": ["Ciberseguridad", "Seguridad informática", "Análisis de vulnerabilidades", "Gestión de riesgos", "Firewalls", "Detección de intrusos", "Criptografía", "Protección de datos"]
                         }
                     }
@@ -55,16 +78,39 @@
                     "dateStart": {"year": 2025, "month": 3},
                     "dateEnd": {"year": 2025, "month": 10},
                     "locales": {
+                        "en": {
+    "title": "Professional Certificate in Object-Oriented Programming and Relational Databases",
+    "province": "Madrid (Madrid)",
+    "country": "Spain",
+    "institution": "Cursos 0,0",
+    "text": "Training focused on application development using object-oriented programming and relational database management.",
+    "list": [
+        "Object-Oriented Programming (OOP)",
+        "Application development using languages such as Java or Python",
+        "Design and modeling of relational databases",
+        "Use of SQL for queries, inserts, and updates",
+        "Database management (MySQL, PostgreSQL)",
+        "Integration between applications and databases",
+        "Debugging and testing of applications",
+        "Application of software development best practices"
+    ],
+    "tags": ["Programming", "OOP", "Java", "Python", "SQL", "Databases", "Software Development", "Backend"]
+},
                         "es": {
-                            "title": "MF0223_3 - Sistemas operativos y aplicaciones informáticas perteneciente al {{Certificado de Profesionalidad}} en Programación con Lenguajes Orientados a Objetos y Bases de Datos Relacionales",
+                            "title": "{{Certificado de Profesionalidad}} en Programación con Lenguajes Orientados a Objetos y Bases de Datos Relacionales",
                             "province": "Madrid (Madrid)",
                             "country": "España",
                             "institution": "Cursos 0,0",
                             "text": "Formación orientada al desarrollo de aplicaciones utilizando programación orientada a objetos y gestión de bases de datos relacionales.",
                             "list": [
-                                "Estructura y compmentes de un equioo informático",
-                                "Funciones de un sistema operativo y su gestión",
-                                "Virtualización, configuración y ajueste de sistemas operativos"
+                                "Programación orientada a objetos (OOP)",
+                                "Desarrollo de aplicaciones con lenguajes como Java o Python",
+                                "Diseño y modelado de bases de datos relacionales",
+                                "Uso de SQL para consultas, inserciones y actualizaciones",
+                                "Gestión de bases de datos (MySQL, PostgreSQL)",
+                                "Conexión entre aplicaciones y bases de datos",
+                                "Depuración y pruebas de aplicaciones",
+                                "Aplicación de buenas prácticas de desarrollo de software"
                             ],
 
                             "tags": ["Programación", "POO", "Java", "Python", "SQL", "Bases de datos", "Desarrollo de software", "Backend"]
@@ -80,6 +126,24 @@
                     "dateStart": {"year": 2024, "month": 2},
                     "dateEnd": {"year": 2024, "month": 9},
                     "locales": {
+                        "en": {
+                            "title": "Professional Certificate in Web Application Development",
+                            "province": "Madrid (Madrid)",
+                            "country": "Spain",
+                            "institution": "Academia Colón (Madrid)",
+                            "text": "Completed in 2024, specialization in:",
+                            "list": [
+                                "Design and structuring of web pages using HTML and CSS",
+                                "Responsive web layout adapted to different devices",
+                                "Basic programming with JavaScript",
+                                "Use of Content Management Systems (CMS) such as WordPress",
+                                "Publishing and maintenance of websites",
+                                "Basic SEO optimization for web pages",
+                                "Integration of multimedia content into websites",
+                                "Validation and testing of web functionality"
+                            ],
+                            "tags": ["Web Development", "HTML", "PHP", "JSON", "CSS", "JavaScript", "WordPress", "Web Design", "Responsive Design", "Basic SEO"]
+},
                         "es": {
                             "title": "{{Certificado de Profesionalidad}} en Desarrollo de Aplicaciones con Tecnológias Web",
                             "province": "Madrid (Madrid)",
@@ -118,6 +182,24 @@
             "month": 5
           },
           "locales": {
+            "en": {
+                  "title": "Professional Certificate in Operation of Voice and Data Communication Systems",
+                  "province": "Madrid (Madrid)",
+                  "country": "Spain",
+                  "institution": "Grupo Aspasia",
+                  "text": "Training focused on the operation, maintenance, and support of voice and data communication systems in professional environments.",
+                  "list": [
+                      "Installation and configuration of voice and data communication systems",
+                      "Management of network infrastructure and connectivity",
+                      "Monitoring and maintenance of communication systems",
+                      "Troubleshooting network and communication issues",
+                      "Configuration of switching and routing basics",
+                      "Implementation of security measures in communication systems",
+                      "Support for telecommunication services and users",
+                      "Performance analysis and optimization of network systems"
+    ],
+            "tags": ["Networking", "Telecommunications", "Voice and Data", "Network Administration", "Technical Support", "IT Infrastructure","Routing and Switching", "Network Security"]
+},
             "es": {
               "title": "{{Certificado de Profesionalidad}} en Operación de Sistemas de Comunicación de Voz y Datos",
               "province": "Madrid (Madrid)",
@@ -153,6 +235,24 @@
             "month": 6
           },
           "locales": {
+            "en": {
+                  "title": "Professional Certificate in Operation of Voice and Data Communication Systems",
+                  "province": "Madrid (Madrid)",
+                  "country": "Spain",
+                  "institution": "Grupo COLÓN",
+                  "text": "Training focused on artistic illustration techniques, visual creativity, and the development of graphic projects in both traditional and digital formats.",
+                  "list": [
+                      "Fundamentals of artistic drawing and composition",
+                      "Color theory and application in illustration",
+                      "Creation of characters and visual storytelling",
+                      "Digital illustration using graphic design software",
+                      "Traditional illustration techniques (ink, watercolor, pencil)",
+                      "Development of editorial and commercial illustration projects",
+                      "Use of typography and layout in visual compositions",
+                      "Preparation of final artwork for print and digital media"
+    ],
+            "tags": ["Illustration", "Digital Art", "Drawing", "Creative Design", "Visual Communication", "Character Design", "Editorial Illustration", "Graphic Arts"]
+},
             "es": {
               "title": "{{Certificado de Profesionalidad}} en Ilustración",
               "province": "Madrid (Madrid)",
@@ -190,6 +290,24 @@
             "month": 4
           },
           "locales": {
+            "en": {
+                "title": "Professional Certificate in Assembly and Repair of Computer Systems",
+                "province": "Madrid (Getafe)",
+                "country": "Spain",
+                "institution": "Centro Tecnológico de Getafe",
+                "text": "Training focused on the assembly, maintenance, and repair of computer equipment, as well as fault diagnosis and technical support.",
+                "list": [
+                    "Assembly and installation of computer equipment",
+                    "Diagnosis and repair of hardware failures",
+                    "Replacement and upgrading of components",
+                    "Installation and configuration of operating systems",
+                    "Preventive and corrective maintenance of equipment",
+                    "Management of peripherals and external devices",
+                    "Troubleshooting technical issues",
+                    "User technical support"
+    ],
+    "tags": ["Hardware", "Microcomputing", "IT Maintenance", "Computer Repair", "Technical Support", "Fault Diagnosis", "Operating Systems", "Peripherals"]
+            },
             "es": {
               "title": "{{Certificado de Profesionalidad}} en Montaje y Reparación de Sistemas Informáticos",
               "province": "Madrid (Getafe)",
@@ -226,8 +344,26 @@
             "month": 11
           },
           "locales": {
+            "en": {
+    "title": "Professional Certificate in Computer Systems Operation",
+    "province": "Madrid (Madrid)",
+    "country": "Spain",
+    "institution": "Grupo Femxa",
+    "text": "Training focused on the administration, operation, and maintenance of computer systems in professional environments.",
+    "list": [
+        "Installation and configuration of operating systems",
+        "System monitoring and performance management",
+        "User and permission management",
+        "Backup and recovery procedures",
+        "Basic network configuration and system connectivity",
+        "Troubleshooting system and software issues",
+        "Application of security policies and best practices",
+        "Technical support and system maintenance"
+    ],
+    "tags": ["System Administration", "Operating Systems", "IT Operations", "Technical Support", "IT Maintenance", "Troubleshooting", "Basic Networking", "IT Security"]
+},
             "es": {
-              "title": "{{Certificado de Profesionalidad}} en Operación de Sistemas Informáticos",
+              "title": "Certificado de Profesionalidad}} en Operación de Sistemas Informáticos",
               "province": "Madrid (Madrid)",
               "country": "España",
               "institution": "Grupo Femxa",
@@ -263,6 +399,33 @@
             "month": 2
           },
           "locales": {
+            "en": {
+                "title": "Professional Certificate in Microcomputer Systems",
+                "province": "Madrid (Fuenlabrada)",
+                "country": "Spain",
+                "institution": "Academia Colón (Fuenlabrada)",
+                "text": "Training focused on the installation, configuration, and maintenance of microcomputer systems, as well as technical support for users.",
+                "list": [
+                    "Installation and configuration of operating systems (Windows/Linux)",
+                    "Assembly, maintenance, and repair of computer equipment",
+                    "User and resource management in local systems",
+                    "Diagnosis and troubleshooting of hardware and software issues",
+                    "Installation and configuration of applications",
+                    "User technical support (Help Desk)",
+                    "Basic network configuration and connectivity",
+                    "Implementation of security measures on computer systems"
+    ],
+                "tags": [
+                    "Microcomputing",
+                    "Hardware",
+                    "Operating Systems",
+                    "Technical Support",
+                    "IT Maintenance",
+                    "Troubleshooting",
+                    "Basic Networking",
+                    "IT Security"
+    ]
+},
             "es": {
               "title": "{{Certificado de Profesionalidad}} en Sistemas Microinformáticos",
               "province": "Madrid (Fuenlabrada)",
@@ -290,6 +453,24 @@
                     "dateStart": {"year": 2014, "month": 9},
                     "dateEnd": {"year": 2015, "month": 6},
                     "locales": {
+                        "en": {
+                            "title": "Professional Certificate in Departmental Network Operations",
+                            "province": "Madrid (Madrid)",
+                            "country": "Spain",
+                            "institution": "Grupo Aspasia",
+                            "text": "Training focused on the management, maintenance, and technical support of computer networks in local environments.",
+                            "list": [
+                                "Installation and configuration of Local Area Networks (LAN)",
+                                "Basic administration of network devices (switches and routers)",
+                                "Network performance monitoring and troubleshooting",
+                                "Resolution of incidents in departmental networks",
+                                "Configuration of IP addressing and basic network services",
+                                "Application of basic network security measures",
+                                "Technical support in network infrastructures"
+                            ],
+
+                            "tags": ["Networking", "LAN", "Network Administration", "Technical Support", "IT Infrastructure", "Network Security", "Basic Cisco"]
+},
                         "es": {
                             "title": "{{Certificado de Profesionalidad}} en Operación en Redes Departamentales",
                             "province": "Madrid (Madrid)",
@@ -319,6 +500,25 @@
               "dateStart": {"year": 2015, "month":9},
               "dateEnd":{"year": 2017, "month": 7},
               "locales":{
+                "en":{
+                    "title": "Digital Prepress Technician",
+    "province": "Madrid (Madrid)",
+    "country": "Spain",
+    "institution": "IES Tajamar",
+    "text": "Training focused on preparing files for digital and offset printing, quality control, and workflow management in graphic production environments.",
+    "list": [
+        "Preparation and adaptation of files for digital and offset printing",
+        "Use of design and layout software (Adobe InDesign, Illustrator, Photoshop)",
+        "Color management and ICC profiles",
+        "File review and correction (preflight)",
+        "Page imposition for printing",
+        "Quality control in prepress processes",
+        "Image optimization and file formats",
+        "Workflow management in graphic production environments"
+    ],
+    "tags": ["Prepress", "Graphic Arts", "Graphic Design", "Layout Design", "Color Management", "Adobe", "Digital Printing", "Quality Control"]
+
+                },
                 "es":{
                   "title":"Técnico en Preimpresión Digital",
                     "province":"Madrid (Madrid)",
@@ -347,6 +547,24 @@
                     "dateStart": {"year": 2009, "month": 9},
                     "dateEnd": {"year": 2014, "month": 6},
                     "locales": {
+                        "en": {
+                            "title": "Intermediate Vocational Training (Grado Medio) in Microcomputer Systems and Networks",
+                            "province": "Madrid (Fuenlabrada)",
+                            "country": "Spain",
+                            "institution": "Gaspar Melchor de Jovellanos Institute",
+                            "text": "Completed in 2009, specialization in:",
+                            "list": [
+                                "Assembly and maintenance of computer equipment",
+                                "Installation and configuration of operating systems (Windows/Linux)",
+                                "Local area network (LAN) configuration and management",
+                                "Basic network troubleshooting",
+                                "Hardware diagnostics and repair",
+                                "User technical support (Help Desk)",
+                                "Peripherals installation and maintenance",
+                                "Basic cybersecurity and system protection practices"
+                            ],
+                            "tags": ["Microinformatics", "Hardware", "Operating Systems", "Computer Networks", "Technical Support", "Troubleshooting", "IT Maintenance"]
+},
                         "es": {
                             "title": "{{Grado Medio}} en Sistemas Microinformáticos y Redes",
                             "province": "Madrid (Fuenlabrada)",
@@ -364,65 +582,6 @@
                                 "Seguridad informática básica y protección de sistemas"
                             ],
                             "tags": ["Hardware", "Sistemas Operativos", "Redes", "Soporte Técnico", "Resolución de incidencias", "Mantenimiento IT"]
-             }
-          }
-        },
-                {
-          "id": 12,
-          "img": "images/pictures/aspasia.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2025, "month": 1},
-                    "dateEnd": {"year": 2025, "month": 11},
-                    "locales": {
-                        "es": {
-                            "title": "{{Certificado de Profesionalidad}} en Operaciones de Grabación y Tratramiento de Datos y Documentos",
-                            "province": "Madrid (Madrid)",
-                            "country": "España",
-                            "institution": "Grupo Aspasia",
-                            "text": "Terminado en el 2025, especializarme en:",
-                            "list": [
-                                  "Grabación de datos mediante técnicas mecanográficas",
-                                  "Tratamiento y gestión de documentos administrativos",
-                                  "Manejo de aplicaciones ofimáticas (Word, Excel, Access)",
-                                  "Archivo y clasificación de documentación",
-                                  "Introducción y actualización de bases de datos",
-                                  "Reproducción y digitalización de documentos",
-                                  "Gestión de correo electrónico y comunicaciones digitales",
-                                  "Normativa de protección de datos (RGPD)"
-                            ],
-                            "tags": ["Ofimática", "Gestión Documental", "Bases de Datos", "RGPD", "Digitalización", "Mecanografía"]
-             }
-          }
-        },
-                        {
-          "id": 13,
-          "img": "images/pictures/AC3.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2019, "month": 11},
-                    "dateEnd": {"year": 2020, "month": 9},
-                    "locales": {
-                        "es": {
-                            "title": "{{Certificado de Profesionalidad}} en Desarrollo de Productos Editoriales Multimedia",
-                            "province": "Madrid (Coslada)",
-                            "country": "España",
-                            "institution": "Academia Colón (Coslada)"
-,
-                            "text": "Terminado en el 2020, especializarme en:",
-                            "list": [
-                                  "Planificación y desarrollo de proyectos editoriales multimedia",
-                                  "Diseño de productos editoriales digitales e interactivos",
-                                  "Integración de textos, imágenes, audio y vídeo en entornos multimedia",
-                                  "Edición y tratamiento de contenidos digitales",
-                                  "Maquetación digital y usabilidad en productos editoriales",
-                                  "Gestión de contenidos mediante sistemas CMS",
-                                  "Publicación y distribución de productos editoriales en distintos soportes",
-                                  "Aplicación de normativa de propiedad intelectual y derechos de autor",
-                                  "Control de calidad de productos editoriales multimedia",
-                                  "Coordinación de equipos y recursos en proyectos editoriales"
-                            ],
-                            "tags": [ "Editorial Multimedia", "Diseño Digital", "Contenidos Interactivos", "CMS", "Propiedad Intelectual", "Maquetación", "Producción Multimedia", "UX/UI"]
              }
           }
         }
