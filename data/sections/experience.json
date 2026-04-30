@@ -181,7 +181,7 @@
                     "dateEnd": null, 
                     "locales": {
                         "es": {
-                            "title": "Auxiliar de {{Administración}}",
+                            "title": "Auxiliar de {{Información}}",
                             "province": "Madrid (Madrid)",
                             "country": "España",
                             "institution": "Grupo Osgar S.L.",
@@ -200,13 +200,13 @@
                     "dateEnd": {"year": 2025, "month": 11},
                     "locales": {
                         "es": {
-                            "title": "{{Prácticas}} de Técnico Administrativo",
-                            "province": "Madrid (Getafe)",
+                            "title": "{{Mozo}} de alamcén",
+                            "province": "Madrid (Madrid)",
                             "country": "España",
-                            "institution": "Cabelas Consultores S.L.",
-                            "text": "Gestión administrativa, atención al cliente y soporte en tareas de oficina, contribuyendo a la eficiencia operativa y satisfacción del cliente.",
+                            "institution": "Correos y Telégrafos",
+                            "text": "",
                             "list": [],
-                            "tags": ["Administración", "Atención al Cliente", "Soporte Administrativo", "Gestión de Documentos", "Organización de Tareas", "Comunicación", "Trabajo en Equipo"]
+                            "tags": ["Mozo de almacén" "Paquetería"]
                         }
                     }
                  },
