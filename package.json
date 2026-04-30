@@ -8,6 +8,7 @@
         "build": "vite build",
         "lint": "eslint .",
         "preview": "vite preview",
+        "deploy": "npm run build && gh-pages -d dist",
         "resume:make:article": "node npm/npm-resume-new-article.js",
         "resume:clear": "node npm/npm-resume-clear.js"
     },
