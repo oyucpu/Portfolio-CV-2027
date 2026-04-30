@@ -285,6 +285,10 @@
         {
           "id": 9,
           "img": "images/pictures/logo-colon.png",
+          "images": [
+              "images/pictures/logo-colon.png",   
+              "images/certificates/colon-cert.jpg" ],
+
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2014, "month": 9},
