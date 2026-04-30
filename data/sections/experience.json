@@ -140,7 +140,7 @@
                         },
                             {
                                 "id": 6,
-                                "img": "",
+                                "img": "images/pictures/pa.jpg",
                                 "faIcon": "",
                                 "faIconColors": {"bg": "", "fill": ""},
                                 "dateStart": {"year": 2017, "month": 4},
