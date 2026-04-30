@@ -167,8 +167,8 @@
                 }
             },
             "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "dateStart"
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
             },
 
             "items": [
