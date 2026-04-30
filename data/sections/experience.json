@@ -104,8 +104,8 @@
                         "img": "images/pictures/pi.jpg",
                         "faIcon": "",
                         "faIconColors": {"bg": "", "fill": ""},
-                        "dateStart": {"year": 2025, "month": 8},
-                        "dateEnd": {"year": 2025, "month": 11},
+                        "dateStart": {"year": 2025, "month": 2},
+                        "dateEnd": {"year": 2025, "month": 6,
                         "locales": {
                             "es": {
                                 "title": "Desarrollador {{Web}}",
