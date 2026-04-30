@@ -9,7 +9,6 @@
             }
         }
     },
-
     "articles": [
         {
             "id": 1,
@@ -20,8 +19,8 @@
                 }
             },
             "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "dateStart"
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
             },
             "items": [
                 {
@@ -82,7 +81,7 @@
                     }
                 },
                 {
-                    "id": 3,
+                    "id": 4,
                     "img": "images/pictures/cc.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
@@ -101,7 +100,7 @@
                     }
                 },
                     {
-                        "id": 4,
+                        "id": 5,
                         "img": "",
                         "faIcon": "",
                         "faIconColors": {"bg": "", "fill": ""},
@@ -120,7 +119,7 @@
                         }
                     },
                         {
-                            "id": 5,
+                            "id": 6,
                             "img": "images/pictures/SST.png",
                             "faIcon": "",
                             "faIconColors": {"bg": "", "fill": ""},
@@ -139,7 +138,7 @@
                             }
                         },
                             {
-                                "id": 6,
+                                "id": 7,
                                 "img": "images/pictures/pa.jpg",
                                 "faIcon": "",
                                 "faIconColors": {"bg": "", "fill": ""},
