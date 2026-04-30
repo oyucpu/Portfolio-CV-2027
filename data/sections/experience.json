@@ -123,7 +123,7 @@
                     },
                         {
                             "id": 5,
-                            "img": "",
+                            "img": "images/pictures/sst.png",
                             "faIcon": "",
                             "faIconColors": {"bg": "", "fill": ""},
                             "dateStart": {"year": 2024, "month": 6},
@@ -133,7 +133,7 @@
                                     "title": "Desarrollador de {{Aplicaciones}}",
                                     "province": "Madrid (Alcobendas)",
                                     "country": "España",
-                                    "institution": "SomoTierra Tech S.A.",
+                                    "institution": "SomoSierra Tech S.A.",
                                     "text": "Desarrollo de aplicaciones web y móviles, utilizando tecnologías modernas para crear soluciones eficientes y escalables que satisfacen las necesidades del cliente.",
                                     "list": [],
                                     "tags": ["Desarrollo de Software", "Programación", "Tecnologías Web", "Desarrollo Móvil", "Innovación", "Resolución de Problemas", "Trabajo en Equipo"]
