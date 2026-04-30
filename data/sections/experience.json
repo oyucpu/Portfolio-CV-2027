@@ -139,7 +139,26 @@
                                     "tags": ["Desarrollo de Software", "Programación", "Tecnologías Web", "Desarrollo Móvil", "Innovación", "Resolución de Problemas", "Trabajo en Equipo"]
                                 }
                             }
-                        }
+                        },
+                            {
+                                "id": 6,
+                                "img": "",
+                                "faIcon": "",
+                                "faIconColors": {"bg": "", "fill": ""},
+                                "dateStart": {"year": 2017, "month": 4},
+                                "dateEnd": {"year": 2017, "month": 6},
+                                "locales": {
+                                    "es": {
+                                        "title": "Diseñador {{Gráfico / Web}}",
+                                        "province": "Madrid (Madrid)",
+                                        "country": "España",
+                                        "institution": "Ediciones Palabra S.A.",
+                                        "text": "Diseño gráfico y web, creando experiencias visuales atractivas y funcionales que comunican efectivamente la identidad de la marca.",
+                                        "list": [],
+                                        "tags": ["Diseño Gráfico", "Diseño Web", "Creatividad", "Innovación", "Resolución de Problemas", "Trabajo en Equipo"]
+                                    }
+                                }
+                            }
             ]
         },
         {
