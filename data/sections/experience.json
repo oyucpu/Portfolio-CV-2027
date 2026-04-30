@@ -178,7 +178,7 @@
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2025, "month": 8},
-                    "dateEnd": {"year": 2025, "month": 11}, 
+                    "dateEnd": "null", 
                     "locales": {
                         "es": {
                             "title": "Auxiliar de {{Administración}}",
