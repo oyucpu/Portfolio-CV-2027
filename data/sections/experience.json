@@ -101,7 +101,7 @@
                 },
                     {
                         "id": 5,
-                        "img": "",
+                        "img": "images/pictures/pi.jpg",
                         "faIcon": "",
                         "faIconColors": {"bg": "", "fill": ""},
                         "dateStart": {"year": 2025, "month": 2},
@@ -206,9 +206,7 @@
                             "institution": "Correos y Telégrafos",
                             "text": "Gestión y organización de paquetería en el almacén central, incluyendo la recepción, clasificación y distribución de envíos. Manejo de cargas y mercancías siguiendo los protocolos de seguridad establecidos.",
                             "list": [],
-
                             "tags": ["Mozo de almacén", "Paquetería","Logística", "Almacén", "Correos"]
-
                         }
                     }
                  },
