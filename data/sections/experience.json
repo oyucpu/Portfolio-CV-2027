@@ -101,7 +101,45 @@
                             "tags": ["Administración", "Atención al Cliente", "Soporte Administrativo", "Gestión de Documentos", "Organización de Tareas", "Comunicación", "Trabajo en Equipo"]
                         }
                     }
-                }
+                },
+                    {
+                        "id": 4,
+                        "img": "",
+                        "faIcon": "",
+                        "faIconColors": {"bg": "", "fill": ""},
+                        "dateStart": {"year": 2025, "month": 8},
+                        "dateEnd": {"year": 2025, "month": 11},
+                        "locales": {
+                            "es": {
+                                "title": "Desarrollador {{Web}}",
+                                "province": "Madrid (Madrid)",
+                                "country": "España",
+                                "institution": "Pipote S.A.",
+                                "text": "Gestión administrativa, atención al cliente y soporte en tareas de oficina, contribuyendo a la eficiencia operativa y satisfacción del cliente.",
+                                "list": [],
+                                "tags": ["Desarrollo de Software", "Programación", "Tecnologías Web", "Desarrollo Móvil", "Innovación", "Resolución de Problemas", "Trabajo en Equipo"]
+                            }
+                        }
+                    },
+                        {
+                            "id": 5,
+                            "img": "",
+                            "faIcon": "",
+                            "faIconColors": {"bg": "", "fill": ""},
+                            "dateStart": {"year": 2024, "month": 6},
+                            "dateEnd": {"year": 2024, "month": 6},
+                            "locales": {
+                                "es": {
+                                    "title": "Desarrollador de {{Aplicaciones}}",
+                                    "province": "Madrid (Alcobendas)",
+                                    "country": "España",
+                                    "institution": "SomoTierra Tech S.A.",
+                                    "text": "Desarrollo de aplicaciones web y móviles, utilizando tecnologías modernas para crear soluciones eficientes y escalables que satisfacen las necesidades del cliente.",
+                                    "list": [],
+                                    "tags": ["Desarrollo de Software", "Programación", "Tecnologías Web", "Desarrollo Móvil", "Innovación", "Resolución de Problemas", "Trabajo en Equipo"]
+                                }
+                            }
+                        }
             ]
         },
         {
