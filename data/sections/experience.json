@@ -194,10 +194,10 @@
                 },
                 {
                     "id": 2,
-                    "img": "images/pictures/cc.png",
+                    "img": "images/pictures/co.jpg",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2025, "month": 8},
+                    "dateStart": {"year": 2017, "month": 6},
                     "dateEnd": {"year": 2025, "month": 11},
                     "locales": {
                         "es": {
