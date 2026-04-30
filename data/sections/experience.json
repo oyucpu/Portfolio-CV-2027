@@ -1,17 +1,11 @@
 {
     "title": {
         "locales": {
-            "en": {
-                "title_short": "Experience",
-                "title_short_nav": "Experience",
-                "title_long_prefix": "Summary of my",
-                "title_long": "{{Work}} Experience"
-            },
             "es": {
                 "title_short": "Experiencia",
                 "title_short_nav": "Experiencia",
                 "title_long_prefix": "Resumen de mi",
-                "title_long": "Experiencia {{Laboral}}"
+                "title_long": "Experiencia {{Laboral y Prácticas}}"
             }
         }
     },
@@ -20,7 +14,11 @@
         {
             "id": 1,
             "component": "ArticleTimeline",
-            "locales": {},
+            "locales": {
+                "es": {
+                    "title": "Experiencia {{Pácticas}}"
+                }
+            },
             "settings": {
                 "order_items_by": "id",
                 "order_items_sort": "dateStart"
@@ -164,7 +162,11 @@
         {
             "id": 2,
             "component": "ArticleTimeline",
-            "locales": {},
+            "locales": {
+                "es": {
+                    "title": "{{Laboral}}"
+                }
+            },
             "settings": {
                 "order_items_by": "id",
                 "order_items_sort": "dateStart"
