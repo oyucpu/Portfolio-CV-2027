@@ -213,17 +213,17 @@
                  },
                 {
                     "id": 3,
-                    "img": "",
+                    "img": "images/pictures/ci.jpg",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2025, "month": 8},
-                    "dateEnd": {"year": 2025, "month": 11},
+                    "dateStart": {"year": 2025, "month": 1},
+                    "dateEnd": {"year": 2025, "month": 4},
                     "locales": {
                         "es": {
-                            "title": "{{Prácticas}} de Técnico Administrativo",
-                            "province": "Madrid (Getafe)",
+                            "title": "{{Auxiliar}} Administrativo",
+                            "province": "Madrid (Madrid)",
                             "country": "España",
-                            "institution": "Cabelas Consultores S.L.",
+                            "institution": "Cibernos",
                             "text": "Gestión administrativa, atención al cliente y soporte en tareas de oficina, contribuyendo a la eficiencia operativa y satisfacción del cliente.",
                             "list": [],
                             "tags": ["Administración", "Atención al Cliente", "Soporte Administrativo", "Gestión de Documentos", "Organización de Tareas", "Comunicación", "Trabajo en Equipo"]
