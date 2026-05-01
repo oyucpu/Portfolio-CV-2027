@@ -1,12 +1,7 @@
 {
     "title": {
         "locales": {
-            "en": {
-                "title_short": "Education",
-                "title_short_nav": "Education",
-                "title_long_prefix": "This is my",
-                "title_long": "{{Education}} Background"
-            },
+          
             "es": {
                 "title_short": "Educación",
                 "title_short_nav": "Educación",
@@ -34,39 +29,15 @@
                     "dateStart": {"year": 2025, "month": 10},
                     "dateEnd": {"year": 2025, "month": 11},
                     "locales": {
-                        "en": {
-"title": "Professional Certificate in Information Security",
-    "province": "Madrid (Madrid)",
-    "country": "Spain",
-    "institution": "Grupo Aspasia",
-    "text": "I obtained a [[degree in Computer Science]], with a focus on algorithms, data structures, software engineering, and web development. I gained practical experience through various programming projects, coding bootcamps, and collaborative team development activities.",
-    "list": [
-        "Implementation of information security policies",
-        "Vulnerability assessment and security auditing",
-        "Configuration and management of firewalls",
-        "Intrusion detection and prevention systems (IDS/IPS)",
-        "Application of cryptographic techniques for data protection",
-        "Risk analysis and management in IT systems",
-        "Security monitoring and incident response",
-        "Protection of systems and networks against cyber threats"
-    ],
-    "tags": ["Cybersecurity", "Information Security", "Vulnerability Analysis", "Risk Management", "Firewalls", "Intrusion Detection", "Cryptography", "Data Protection"]
-                        },
                         "es": {
-                            "title": "{{Certificado de Profesionalidad}} en Seguridad Informática",
+                            "title": "MF0487_3: Auditoría de seguridad informática perteneciente al {{Certificado de Profesionalidad}} en Seguridad Informática",
                             "province": "Madrid (Madrid)",
                             "country": "España",
                             "institution": "Grupo Aspasia",
-                            "text": "Obtuve un [[grado en Ciencias de la Computación]], con enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de diversos proyectos de programación, bootcamps de codificación y actividades colaborativas de desarrollo en equipo.",
+                            "text": "",
                             "list": ["Implementación de políticas de seguridad informática",
-                                  "Análisis de vulnerabilidades y auditorías de seguridad",
-                                  "Configuración y gestión de firewalls",
-                                  "Sistemas de detección y prevención de intrusos (IDS/IPS)",
-                                  "Aplicación de técnicas criptográficas para la protección de datos",
-                                  "Análisis y gestión de riesgos en sistemas IT",
-                                  "Monitorización de seguridad y respuesta ante incidentes",
-                                  "Protección de sistemas y redes frente a ciberamenazas"],
-                            "tags": ["Ciberseguridad", "Seguridad informática", "Análisis de vulnerabilidades", "Gestión de riesgos", "Firewalls", "Detección de intrusos", "Criptografía", "Protección de datos"]
+                                  "Análisis de vulnerabilidades y auditorías de seguridad"],
+                            "tags": ["Ciberseguridad", "Auditoría", "Seguridad informática", "Análisis de vulnerabilidades", "Gestión de riesgos", "Firewalls", "Detección de intrusos", "Criptografía", "Protección de datos"]
                         }
                     }
                 },
