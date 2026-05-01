@@ -57,7 +57,8 @@
                             "institution": "Cursos 0,0",
                             "text": "Formación orientada al desarrollo de aplicaciones utilizando programación orientada a objetos y gestión de bases de datos relacionales.",
                             "list": [
-                              "Manejo y gestión de sistemas operativos y aplicaciones informáticas"
+                              "Manejo y gestión de sistemas operativos y aplicaciones informáticas",
+                              "Instalación, configuración y mantenimiento de sistemas operativos."
                             ],
 
                             "tags": ["Sistemas Operativos","Aplicaciones informáticas"]
