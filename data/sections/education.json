@@ -51,23 +51,16 @@
                     "locales": {
                        
                         "es": {
-                            "title": "{{Certificado de Profesionalidad}} en Programación con Lenguajes Orientados a Objetos y Bases de Datos Relacionales",
+                            "title": " MF0223_3 - Sistemas operativos y aplicaciones informáticas perteneciente del {{Certificado de Profesionalidad}} en Programación con Lenguajes Orientados a Objetos y Bases de Datos Relacionales",
                             "province": "Madrid (Madrid)",
                             "country": "España",
                             "institution": "Cursos 0,0",
                             "text": "Formación orientada al desarrollo de aplicaciones utilizando programación orientada a objetos y gestión de bases de datos relacionales.",
                             "list": [
-                                "Programación orientada a objetos (OOP)",
-                                "Desarrollo de aplicaciones con lenguajes como Java o Python",
-                                "Diseño y modelado de bases de datos relacionales",
-                                "Uso de SQL para consultas, inserciones y actualizaciones",
-                                "Gestión de bases de datos (MySQL, PostgreSQL)",
-                                "Conexión entre aplicaciones y bases de datos",
-                                "Depuración y pruebas de aplicaciones",
-                                "Aplicación de buenas prácticas de desarrollo de software"
+                              "Manejo y gestión de sistemas operativos y aplicaciones informáticas"
                             ],
 
-                            "tags": ["Programación", "POO", "Java", "Python", "SQL", "Bases de datos", "Desarrollo de software", "Backend"]
+                            "tags": ["Sistemas Operativos","Aplicaciones informáticas"]
                         }
                         
                     }
