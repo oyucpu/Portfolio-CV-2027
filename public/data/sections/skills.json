@@ -587,7 +587,7 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "images/pictures/web.png",
+                    "img": "images/pictures/w.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": "#E34F26"},
                     "date": {"year": 2018, "month": 9},
