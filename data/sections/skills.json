@@ -617,16 +617,16 @@
                 },
                 {
                     "id": 3,
-                    "img": "",
+                    "img": "images/pictures/x.png",
                     "faIcon": "fa-brands fa-js",
                     "faIconColors": {"bg": "", "fill": "#F7DF1E", "fillLight": "#a69617"},
-                    "date": {"year": 2023, "month": 3},
-                    "percentage": 90,
+                    "date": {"year": 2024, "month": 4},
+                    "percentage": 40,
                     "locales": {
 
                         "es": {
-                        	 "title": "JavaScript ES6+",
-                            "text": "Dominio de JavaScript ES6+ para aplicaciones web dinámicas e interactivas."
+                        	 "title": "Excel",
+                            "text": "Dominio intermedio de Excel y sus comandos."
                         }
                     }
                 },
