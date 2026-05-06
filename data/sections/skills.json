@@ -590,7 +590,7 @@
                     "img": "images/pictures/w.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": "#E34F26"},
-                    "date": {"year": 2018, "month": 9},
+                    "date": {"year": 2023, "month": 9},
                     "percentage": 100,
                     "locales": {
 
@@ -602,16 +602,16 @@
                 },
                 {
                     "id": 2,
-                    "img": "",
-                    "faIcon": "fa-brands fa-css3-alt",
+                    "img": "images/pictures/pp.png",
+                    "faIcon": "",
                     "faIconColors": {"bg": "", "fill": "#1572B6"},
-                    "date": {"year": 2019, "month": 1},
+                    "date": {"year": 2023, "month": 1},
                     "percentage": 65,
                     "locales": {
 
                         "es": {
-                        	 "title": "CSS 3",
-                            "text": "Puedo crear diseños receptivos y visualmente atractivos utilizando CSS3."
+                        	 "title": "Power Point",
+                            "text": "Puedo crear diferentes diseños de Power Point y su uso."
                         }
                     }
                 },
