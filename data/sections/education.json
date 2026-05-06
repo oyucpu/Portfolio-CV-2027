@@ -380,20 +380,22 @@
                     "locales": {
 
                         "es": {
-                            "title": "{{Grado Medio}} en Sistemas Microinformáticos y Redes",
-                            "province": "Madrid (Fuenlabrada)",
+                            "title": "{{Certificado de Profesionalidad}} en Programación con Lenguajes Orientados a Objetos y Bases de Datos Relacionales",
+                            "province": "Madrid (Getafe)",
                             "country": "España",
-                            "institution": "Instuto Gaspar Melchor de Jovellanos",
-                            "text": "Terminado en el 2009, especializarme en:",
+                            "institution": "Centro Tecnólogico de Getafe",
+                            "text": "Futuro: 2027",
                             "list": [
-                                "Montaje y mantenimiento de equipos informáticos",
-                                "Instalación y configuración de sistemas operativos (Windows/Linux)",
-                                "Configuración y administración de redes de área local (LAN)",
-                                "Resolución básica de incidencias en redes",
-                                "Diagnóstico y reparación de hardware",
-                                "Soporte técnico a usuarios (Help Desk)",
-                                "Instalación y mantenimiento de periféricos",
-                                "Seguridad informática básica y protección de sistemas"
+                                "Clases y objetos",
+                                "Herencia y polimorfismo",
+                                "Encapsulamiento y abstracción",
+                                "Interfaces y clases abstractas",
+                                "Lenguajes como Java o C#",
+                                "Diseño de bases de datos (entidad-relación)",
+                                "SQL — consultas, inserciones, actualizaciones",
+                                "Relaciones entre tablas (claves primarias y foráneas)",
+                                "Normalización",
+                                "Conectar la base de datos con el código (JDBC, por ejemplo)"
                             ],
                             "tags": ["Hardware", "Sistemas Operativos", "Redes", "Soporte Técnico", "Resolución de incidencias", "Mantenimiento IT"]
         } } }
