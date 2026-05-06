@@ -368,7 +368,36 @@
                             "tags": ["Hardware", "Sistemas Operativos", "Redes", "Soporte Técnico", "Resolución de incidencias", "Mantenimiento IT"]
              }
           }
-        }
+        },
+
+        {
+          "id":12,
+          "img":"images/pictures/cm.jpeg",
+          "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2009, "month": 9},
+                    "dateEnd": {"year": 2014, "month": 6},
+                    "locales": {
+
+                        "es": {
+                            "title": "{{Grado Medio}} en Sistemas Microinformáticos y Redes",
+                            "province": "Madrid (Fuenlabrada)",
+                            "country": "España",
+                            "institution": "Instuto Gaspar Melchor de Jovellanos",
+                            "text": "Terminado en el 2009, especializarme en:",
+                            "list": [
+                                "Montaje y mantenimiento de equipos informáticos",
+                                "Instalación y configuración de sistemas operativos (Windows/Linux)",
+                                "Configuración y administración de redes de área local (LAN)",
+                                "Resolución básica de incidencias en redes",
+                                "Diagnóstico y reparación de hardware",
+                                "Soporte técnico a usuarios (Help Desk)",
+                                "Instalación y mantenimiento de periféricos",
+                                "Seguridad informática básica y protección de sistemas"
+                            ],
+                            "tags": ["Hardware", "Sistemas Operativos", "Redes", "Soporte Técnico", "Resolución de incidencias", "Mantenimiento IT"]
+        } } }
+        
       ]
     }
   ]
