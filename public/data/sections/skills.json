@@ -566,7 +566,10 @@
                             "text": "Buena comprensión de Bootstrap para diseño receptivo."
                         }
                     }
-                },
+                }
+            ]
+        },
+
                  {
             "id": 4,
             "component": "ArticleSkills",
@@ -702,8 +705,6 @@
                         }
                     }
                 }
-            ]
-        }
             ]
         },
         
