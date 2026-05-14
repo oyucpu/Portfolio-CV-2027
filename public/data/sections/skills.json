@@ -428,6 +428,21 @@
                             "text": "Comprensión completa de Git para control de versiones y colaboración."
                         }
                     }
+                },
+                {
+                    "id": 11,
+                    "img": "images/pictures/cobol.png",
+                    "faIcon": "fa-brands fa-git",
+                    "faIconColors": {"bg": "", "fill": "#F05032"},
+                    "date": {"year": 2025, "month": 1},
+                    "percentage": 20,
+                    "locales": {
+
+                        "es": {
+                        	 "title": "COBOL",
+                            "text": ""
+                        }
+                    }
                 }
             ]
         },
